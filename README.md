@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 **jkl** is a static site generator written in [Go](http://www.golang.org),
 based on [Jekyll](https://github.com/mojombo/jekyll)
 
